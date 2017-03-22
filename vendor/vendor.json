@@ -1,0 +1,14 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Hsbgx8qjWXcnijlzCL1O+eQF3e4=",
+			"path": "github.com/lib/pq",
+			"revision": "472a0745531a17dbac346e828b4c60e73ddff30c",
+			"revisionTime": "2017-03-13T20:04:23Z",
+			"tree": true
+		}
+	],
+	"rootPath": "github.com/golang-plus/database-sql-postgresql"
+}
